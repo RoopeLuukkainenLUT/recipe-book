@@ -10,7 +10,7 @@
 ## Ingredients
 
 These use SI-units
-- 150g butter (for more heatlhy option use baking margarine)
+- 150g butter (for more healthy option use baking margarine)
 - 2dl sugar
 - 2 eggs
 - 1.5dl wheat flour 
